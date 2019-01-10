@@ -12,7 +12,7 @@ import {
 import Home from "./components/Home";
 import Form from "./components/Form";
 import People from "./components/People";
-import "bootstrap/dist/css/bootstrap.css";
+// import "bootstrap/dist/css/bootstrap.css";
 
 ReactDOM.render(
   <Router>
