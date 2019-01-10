@@ -10,7 +10,7 @@ class Form extends Component {
   handleSubmit = e => {
     e.preventDefault();
     const data = JSON.stringify({ ...this.state });
-    fetch("localhost: 4000", {
+    fetch("http://localhost:3030", {
       method: "POST",
       body: data,
       headers: {
