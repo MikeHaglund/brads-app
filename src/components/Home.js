@@ -8,12 +8,13 @@ class Home extends Component {
   render() {
     return (
       <div>
-        {/* <li>
+        
+        <li>
           <Link to="/people">People</Link>
         </li>
         <li>
           <Link to="/form">Form</Link>
-        </li> */}
+        </li>
         <p>It's the Home Page</p>
       </div>
     );

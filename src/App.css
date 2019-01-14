@@ -1,3 +1,13 @@
 .App {
   text-align: center;
 }
+.Navbar {
+  color: pink
+}
+
+.navbar-brand > img {
+      max-height: 50%;
+      height: 50%;
+      -o-object-fit: contain;
+      object-fit: contain;
+    }
