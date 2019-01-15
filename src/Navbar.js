@@ -42,6 +42,11 @@ class Navbar extends Component {
                   Overbuff Stats
                 </a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://xboxclips.com/bleuladder">
+                  Clips
+                </a>
+              </li>
               <li class="nav-item dropdown">
                 <a
                   class="nav-link dropdown-toggle"
